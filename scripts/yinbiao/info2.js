@@ -30,7 +30,7 @@ let obj = JSON.parse(decrypted);
 //需要修改的部分
 //英语课程部分
 obj['datas']['flippedUserLevel'] = "A1";
-obj['datas']['flippedVipDeadline'] = 1750867199000;
+obj['datas']['flippedVipDeadline'] = 1990867199000;
 obj['datas']['flippedVipLevel'] = 1;
 obj['datas']['flippedVipFlag'] = 1;
 obj['datas']['fzVipActive'] = 1;
